@@ -4,7 +4,7 @@
   
   body {
     font-family: 'Arial', sans-serif;
-    background-image: url('');
+    background-image: url('Camada\ 7.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -22,7 +22,7 @@
   }
   
   .envelope-mens, .envelope-salmo, .envelope-name {
-    color: #ffffff;
+    color: #120649;
     margin-bottom: 10px;
     text-align: center;
   }
@@ -65,7 +65,7 @@
     flex-direction: column;
     align-items: center;
     text-decoration: none;
-    color: #ffffff;
+    color: #120649;
     font-family: 'Arial', sans-serif;
     font-size: 14px;
   }

@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('back.png');
+    background-image: url('Camada\ 7.png');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -22,7 +22,7 @@ body {
   .invitation-title {
     font-family: 'Dancing Script', cursive;
     font-size: 36px;
-    color: #ea00ff;
+    color: #120649;
   }
   
   .invitation-subtitle {
@@ -37,7 +37,7 @@ body {
   }
   
   .location-section h3 {
-    color: #ea00ff;
+    color: #120649;
     font-size: 24px;
   }
   
@@ -45,7 +45,7 @@ body {
     display: inline-block;
     margin-top: 5px;
     padding: 8px 15px;
-    background-color: #ea00ff;
+    background-color: #120649;
     color: white;
     text-decoration: none;
     border-radius: 5px;
